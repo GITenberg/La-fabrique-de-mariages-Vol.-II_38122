@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38122#La-fabrique-de-mariages-Vol.-II
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
